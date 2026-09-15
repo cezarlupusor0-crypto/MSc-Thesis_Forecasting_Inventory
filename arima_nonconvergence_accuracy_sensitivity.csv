@@ -1,0 +1,7 @@
+purpose,treatment,series_origin_rows,nonconverged_rows_affected,mae,rmsse,wape
+validation,retained_finite_forecasts,1500,5,2.0570761900070385,0.7202857697569085,57.85152299089721
+validation,excluded_nonconverged_series_origins,1495,5,2.060846371498921,0.7190877922157647,57.812362441073084
+validation,seasonal_naive_fallback_replacement,1500,5,2.0569768835939253,0.7220053713453953,57.84873017881311
+final_test,retained_finite_forecasts,500,2,2.0383354731328867,0.7529342876362037,55.26832960289043
+final_test,excluded_nonconverged_series_origins,498,2,2.0427779801646304,0.7528209796812049,55.23141208658718
+final_test,seasonal_naive_fallback_replacement,500,2,2.0390354396725434,0.7537040957188028,55.28730880525169

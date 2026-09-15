@@ -1,0 +1,10 @@
+check,passed
+Point-accuracy bootstrap has all pair-purpose-metric rows,True
+"ARIMA diagnostics cover 11,000 fits",True
+TiRex daily coverage contains both purposes and nine quantiles,True
+Protection coverage contains five models and three quantiles,True
+Quantile rearrangement removes crossings without material score change,True
+Terminal table includes baseline and principal timing configurations,True
+Cluster robustness contains product and store resampling,True
+Pareto plot contains all fifteen baseline points,True
+Exactly two baseline Pareto-efficient points,True

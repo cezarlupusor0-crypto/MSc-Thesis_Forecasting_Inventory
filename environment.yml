@@ -1,0 +1,20 @@
+name: cezar-thesis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - numpy>=1.26,<3
+  - pandas>=2.2,<4
+  - scipy>=1.12,<2
+  - statsmodels>=0.14,<1
+  - scikit-learn>=1.5,<2
+  - matplotlib>=3.8,<4
+  - jupyterlab>=4,<5
+  - ipykernel>=6,<8
+  - pip:
+      - pmdarima>=2.0,<3
+      - xgboost>=2.1,<4
+      - torch>=2.4,<3
+      - tirex2==0.2.1
+
